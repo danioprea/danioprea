@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dani (_she/they_)!
+### Hi there 👋 I'm Dani _(she/they)_!
 
 I'm an aspiring Data Analyst living in Colorado. I'm intrigued by big data and using it to uncover interesting and exciting insights! As a musician, I am especially curious about streaming data and algorithms that help listeners discover more artists they may love and help great artists grow and reach more eager fans.
 
