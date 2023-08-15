@@ -13,11 +13,10 @@ In my free time, I enjoy:
 - 💜 spending time with friends
 
 ## Tech, Tools, & Languages I use
-<p float="left">
-  <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" width="100" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfxScL8vvCtVc6TQ0oiat88etw_CzbeeWK5qpoO8&s" width="100" /> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9CjqY9GKfnhs5VG5nTrlekFBHbv9TfBgtJktWbNQ&s" width="100" />
-</p>
+- SQL
+- Python
+- Tableau
+- Excel
 
 <!--
 **danioprea/danioprea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
